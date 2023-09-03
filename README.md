@@ -1,5 +1,7 @@
-TASK: Use the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. This is a classic beginner project with readily available data. The dataset typically used for this project contains information about individual passengers, such as their age, gender, ticket, class, fare, cabin, and whether or not they survived.
+TASK 1: 
+Use the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. This is a classic beginner project with readily available data. The dataset typically used for this project contains information about individual passengers, such as their age, gender, ticket, class, fare, cabin, and whether or not they survived.
 
+Description:
 The dataset itself contained a comprehensive array of information regarding individual passengers, encompassing attributes such as age, gender, ticket class, fare, cabin, and, significantly, whether they survived or perished in the disaster. With these diverse features at my disposal, I embarked on the task of crafting a predictive model.
 
 For this project, I opted to employ logistic regression as the modeling technique of choice. The rationale behind this decision was twofold. Firstly, logistic regression is a well-suited algorithm for binary classification tasks, making it ideal for predicting survival outcomes—either survived or did not survive. Secondly, as a beginner, it allowed me to delve into the fundamentals of modeling without the complexity associated with more advanced techniques. Logistic regression provided a transparent way to establish relationships between the various passenger attributes and the likelihood of survival.
